@@ -4,8 +4,9 @@ I am convinced that you can do anything. But the most important question is HOW,
 
 ### Interested in:
 - JS/TS
-- Functional programming(Haskell or any other ML language)
-- UX
+- Functional programming(Haskell or any other ML language) and math
+- Good developer experience tools and patterns
+- Fixing bad smelling code, even my own
 - Not artificial but emotional intelligence 
 
 ### Contacts
