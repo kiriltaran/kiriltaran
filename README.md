@@ -13,6 +13,11 @@ I am convinced that you can do anything. But the most important question is HOW,
 [<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383265.svg" />][twitter]
 
+<br/>
+
+[![kiriltaran's github stats](https://github-readme-stats.vercel.app/api?username=kiriltaran&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kiriltaran/kiriltaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
