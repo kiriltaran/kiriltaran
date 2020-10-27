@@ -14,7 +14,7 @@ I am convinced that you can do anything. But the most important question is HOW,
 
 <br/>
 
-[![kiriltaran's github stats](https://github-readme-stats.vercel.app/api?username=kiriltaran&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+![kiriltaran's github stats](https://github-readme-stats.vercel.app/api?username=kiriltaran&count_private=true&show_icons=true&hide=stars)
 
 
 <!--
