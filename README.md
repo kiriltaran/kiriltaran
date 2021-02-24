@@ -5,7 +5,7 @@ I am convinced that you can do anything. But the most important question is HOW,
 ### Interested in:
 - JS/TS
 - Functional programming(Haskell or any other ML language) and math
-- Fixing bad smelling code, even my own
+- Fixing bad smelling code, mostly my own
 - Not artificial but emotional intelligence 
 
 ### Contacts
